@@ -1,0 +1,7 @@
+const SET_THEME = 'SET_THEME';
+const TOGGLE_THEME = 'TOGGLE_THEME';
+
+export {
+    SET_THEME,
+    TOGGLE_THEME
+};

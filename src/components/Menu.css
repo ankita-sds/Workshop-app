@@ -1,0 +1,11 @@
+.menu {
+    padding: 1em;
+    background-color: #ccc;
+}
+
+.menu a {
+    font-size: 1.35em;
+    text-decoration: none;
+    margin-right: 1em;
+}
+
